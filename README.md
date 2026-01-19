@@ -4,9 +4,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://gustavoscanova.github.io/Meu_Portfolio/Perfil/MinhaFotoPerfil.png"  />
-</div>
+</div> -->
 
 ###
 
