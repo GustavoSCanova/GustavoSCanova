@@ -50,11 +50,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoSCanova/GustavoSCanova/output/pacman-contribution-graph-dark.svg">
-<img
-  src="https://raw.githubusercontent.com/GustavoSCanova/GustavoSCanova/output/pacman-contribution-graph.svg"
-  alt="pacman contribution graph"
-/>
+
+<img src="https://github.com/GustavoSCanova/About_Me/blob/output/pacman-contribution-graph-dark.svg">
 
 </picture>
 
