@@ -14,7 +14,7 @@
 
 <p align="left"><h1>Hello! My name is Gustavo</h1>
 <h3>
-                I'm developer fullstack with fromeworks node.js and laravel.
+                I'm developer fullstack with frameworks node.js and laravel.
                 My own hardskills include a programmim in mvc project.
                 Mysql phpmyadmin advanced habilits,
                 tools where using composer incluing design level with bootstrap framework
