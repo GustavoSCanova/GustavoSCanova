@@ -12,12 +12,21 @@
 
 <br clear="both">
 
-<p align="left"><h1>Hello! My name is Gustavo</h1>
+<!-- <p align="left"><h1>Hello! My name is Gustavo</h1>
 <h3>
                 I'm developer fullstack with frameworks node.js and laravel.
                 My own hardskills include a programmim in mvc project.
                 Mysql phpmyadmin advanced habilits,
                 tools where using composer incluing design level with bootstrap framework
+</h3>
+            
+</p> -->
+
+<p align="left"><h1>Hello! My name is Gustavo</h1>
+<h3>
+        I am a Full Stack Developer with experience in Node.js and Laravel frameworks.
+        My hard skills include developing MVC-based projects, advanced MySQL database management using phpMyAdmin, and dependency management with Composer.
+        I also have experience in responsive design using the Bootstrap framework.
 </h3>
             
 </p>
