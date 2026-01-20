@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">Hello! My name is Gustavo;
+<p align="left"><h1>Hello! My name is Gustavo</h1>
 <h3>
                 I'm developer fullstack with fromeworks node.js and laravel.
                 My mains hardskills include a Programmim in mvc project.
