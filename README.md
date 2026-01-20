@@ -12,7 +12,16 @@
 
 <br clear="both">
 
-<p align="left">I' am Gustavo, nice too me to you! :)</p>
+<p align="left">Hello! My name is Gustavo;
+<em>
+                I'm developer fullstack with fromeworks node.js and laravel;
+                My skills{
+                    Programmim in mvc project();
+                    Mysql phpmyadmin advanced habilits();
+                    tools where using composer incluing level design with bootstrap framework
+                } 
+</em>
+</p>
 
 ###
 
