@@ -13,14 +13,13 @@
 <br clear="both">
 
 <p align="left">Hello! My name is Gustavo;
-
-                I'm developer fullstack with fromeworks node.js and laravel;
-                My skills{
-                    Programmim in mvc project();
-                    Mysql phpmyadmin advanced habilits();
-                    tools where using composer incluing level design with bootstrap framework
-                } 
-
+<em><h3>
+                I'm developer fullstack with fromeworks node.js and laravel.
+                My mains hardskills include a Programmim in mvc project.
+                Mysql phpmyadmin advanced habilits,
+                tools where using composer incluing design level with bootstrap framework
+</h3>
+</em>            
 </p>
 
 ###
